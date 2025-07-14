@@ -68,15 +68,6 @@ This project outlines a **highly available**, **scalable**, and **fault-tolerant
 
 ---
 
-## 📁 Project Structure
-├── architecture-diagram.png # AWS Architecture Diagram
-├── README.md # Project Documentation
-├── templates/ # (Coming soon) IaC Templates
-│ ├── terraform/
-│ └── cloudformation/
-
----
-
 ## 📌 Future Enhancements
 
 - Add CI/CD pipeline with AWS CodePipeline.
